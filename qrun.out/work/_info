@@ -1,0 +1,200 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f vlog 2024.3_1 2024.10, Oct 17 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/runner
+valu
+Z2 2design.sv|testbench.sv
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1755018324
+!i10b 1
+!s100 MG>a?cQ8:?YmMI51UMO@k2
+I8_Y6kgIHKcMQGmFM?7^UN2
+S1
+R1
+Z5 w1755018320
+8alu.sv
+Falu.sv
+!i122 0
+L0 4 33
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2024.3_1;79
+r1
+!s85 0
+31
+Z8 !s108 1755018324.000000
+Z9 !s107 main_tb.sv|top_level.sv|my_processor.sv|regfile.sv|instruction_memory.sv|data_memory.sv|alu.sv|testbench.sv|design.sv|
+Z10 !s90 -mfcu|design.sv|testbench.sv|-work|qrun.out/work|-statslog|qrun.out/stats_log|-writesessionid|+qrun.out/top_dus|-csession=incr|
+!i113 0
+Z11 o-mfcu -work qrun.out/work
+Z12 tCvgOpt 0
+vdata_memory
+R2
+R3
+R4
+!i10b 1
+!s100 1[og>Y;AM^`56T=6_Jk930
+IBc_6fOeI8`m5L4406Q4L41
+S1
+R1
+R5
+8data_memory.sv
+Fdata_memory.sv
+!i122 0
+L0 1 27
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vinstruction_memory
+R2
+R3
+R4
+!i10b 1
+!s100 `CX9bL4S@mBAc_]<FL7j42
+If4o32J:]hK;CE=S^HWzSC3
+S1
+R1
+R5
+8instruction_memory.sv
+Finstruction_memory.sv
+!i122 0
+L0 2 15
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vmy_processor
+R2
+R3
+R4
+!i10b 1
+!s100 7zX4bMKcl0SYo4ICe><I01
+I6i12JScW5Z]8PB9R6Kl4f1
+S1
+R1
+R5
+8my_processor.sv
+Fmy_processor.sv
+!i122 0
+L0 1 235
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Tqrun_opt
+R4
+V9o46Jn^n@cc>e<oR`ZVjk1
+04 2 4 work tb fast 0
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+!s135 nogc
+o-access=rw+/. -mfcu -work qrun.out/work
+R12
+nqrun_opt
+OL;O;2024.3_1;79
+vregfile
+R2
+R3
+R4
+!i10b 1
+!s100 D1_7IXfX8U1`IPN^k7X>`3
+IJI_k[oD2IC31T2HFD`gGQ2
+S1
+R1
+R5
+8regfile.sv
+Fregfile.sv
+!i122 0
+L0 1 30
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vtb
+R2
+R3
+R4
+!i10b 1
+!s100 UJ3jOAU<`SD`ko^M3M70K0
+I@TSJfd;P11zWF2AT@LKz:2
+S1
+R1
+R5
+8main_tb.sv
+Fmain_tb.sv
+!i122 0
+L0 1 84
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vtop_level
+R2
+R3
+R4
+!i10b 1
+!s100 2j<JLYUOFol^CSdIA6n]P3
+I1k>;R5o9RQMHE@:<Sj4B00
+S1
+R1
+R5
+8top_level.sv
+Ftop_level.sv
+!i122 0
+L0 3 95
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12

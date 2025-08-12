@@ -1,0 +1,13 @@
+BEGIN 1:regfile:fast:work
+    regs :  1:tb:fast:work
+END 
+BEGIN 1:data_memory:fast:work
+    mem :  1:tb:fast:work
+END 
+BEGIN 1:top_level:fast:work
+    pc :  1:tb:fast:work
+    d_we :  1:tb:fast:work
+    d_wdata :  1:tb:fast:work
+    instr_word :  1:tb:fast:work
+    d_addr :  1:tb:fast:work
+END 

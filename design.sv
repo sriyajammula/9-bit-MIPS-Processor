@@ -1,0 +1,6 @@
+`include "alu.sv"
+`include "data_memory.sv"
+`include "instruction_memory.sv"
+`include "regfile.sv"
+`include "my_processor.sv"
+`include "top_level.sv"
